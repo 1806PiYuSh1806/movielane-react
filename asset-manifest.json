@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movielane-react/static/css/main.ccfd3975.css",
+    "main.js": "/movielane-react/static/js/main.3a818236.js",
+    "static/js/787.c9093e37.chunk.js": "/movielane-react/static/js/787.c9093e37.chunk.js",
+    "index.html": "/movielane-react/index.html",
+    "main.ccfd3975.css.map": "/movielane-react/static/css/main.ccfd3975.css.map",
+    "main.3a818236.js.map": "/movielane-react/static/js/main.3a818236.js.map",
+    "787.c9093e37.chunk.js.map": "/movielane-react/static/js/787.c9093e37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfd3975.css",
+    "static/js/main.3a818236.js"
+  ]
+}
