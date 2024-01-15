@@ -21,14 +21,15 @@ function App() {
 
   return (
     <div className="app">
-      <h1>MovieLand</h1>
+      <h1>MovieLane</h1>
       <div className="search">
         <input
           placeholder="Search for movies"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
-        <img src="/logo192.png" alt="search" onClick={() => searchMovies(searchTerm)} />
+        <img src={process.env.PUBLIC_URL + "/logo192.png"} alt="search" onClick={() => searchMovies(searchTerm)} />
+
       </div>
 
       {movies.length > 0 ? (
